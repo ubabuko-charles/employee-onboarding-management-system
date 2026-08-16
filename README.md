@@ -1,9 +1,44 @@
-# employee-onboarding-management-system
 # Employee Onboarding Management System
 
 A business application built with **Microsoft Power Apps, Power Automate, SharePoint, and Microsoft 365/Outlook** to manage employee onboarding from employee registration through task completion and document verification.
 
 The system provides a centralized way for HR to manage employees, assign onboarding tasks, track progress, manage onboarding documents, and automate notifications throughout the onboarding process.
+
+## 📸 Project Preview
+
+### Dashboard
+
+![Dashboard](screenshots/01-dashboard.png)
+
+### Employee Management
+
+![Employees](screenshots/02-employees.png)
+
+### Employee Details & Onboarding Progress
+
+![Employee Details](screenshots/04-employee-details.png)
+
+### Task Management
+
+![Tasks](screenshots/06-tasks.png)
+
+### Document Management
+
+![Documents](screenshots/08-documents.png)
+
+## ⚙️ Power Automate Workflows
+
+### New Employee Welcome Email
+
+![Welcome Email Flow](screenshots/09-power-automate-welcome-email.png)
+
+### Onboarding Task Notification
+
+![Task Notification Flow](screenshots/10-power-automate-task-notification.png)
+
+### Automatic Onboarding Status
+
+![Status Automation Flow](screenshots/12-power-automate-status-automation.png)
 
 ## Overview
 
@@ -117,7 +152,7 @@ Stores tasks assigned to employees, including task status, responsible users, du
 
 Stores onboarding document information, document status, and notes.
 
-Power Apps provides the user interface while SharePoint stores the application data and Power Automate handles business process automation and email notifications.
+Power Apps provides the user interface, while SharePoint stores the application data and Power Automate handles business process automation and email notifications.
 
 ## Business Process
 
