@@ -12,33 +12,33 @@ The system provides a centralized way for HR to manage employees, assign onboard
 
 ### Employee Management
 
-![Employees](screenshots/02-employees.png)
+![Employees](screenshots/Employee%20Onboarding%20App/employees%20page.png)
 
 ### Employee Details & Onboarding Progress
 
-![Employee Details](screenshots/04-employee-details.png)
+![Employee Details and Tasks](screenshots/Employee%20Onboarding%20App/Employee%20Details%20and%20tasks%20screen.png)
 
 ### Task Management
 
-![Tasks](screenshots/06-tasks.png)
-
-### Document Management
-
-![Documents](screenshots/08-documents.png)
+![Tasks](screenshots/Employee%20Onboarding%20App/Tasks%20Screen.png)
 
 ## ⚙️ Power Automate Workflows
 
 ### New Employee Welcome Email
 
-![Welcome Email Flow](screenshots/09-power-automate-welcome-email.png)
+![Welcome Email Flow](screenshots/Employee%20Onboarding%20App/Power%20Automate%20Welcome%20email.png)
 
 ### Onboarding Task Notification
 
-![Task Notification Flow](screenshots/10-power-automate-task-notification.png)
+![Task Notification Flow](screenshots/Employee%20Onboarding%20App/power-automate-task-notification.png)
 
 ### Automatic Onboarding Status
 
-![Status Automation Flow](screenshots/12-power-automate-status-automation.png)
+![Automatic Status Update Flow](screenshots/Employee%20Onboarding%20App/power-automate-status%20update%20automation.png)
+
+### Email Notification Proof
+
+![Email Notification](screenshots/Employee%20Onboarding%20App/Email%20Notification.png)
 
 ## Overview
 
