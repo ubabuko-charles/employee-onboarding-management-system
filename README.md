@@ -8,7 +8,7 @@ The system provides a centralized way for HR to manage employees, assign onboard
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Employee%20Onboarding%20App/dashboard.png)
 
 ### Employee Management
 
